@@ -1,4 +1,4 @@
-##Case: Google na implementação do Scrum
+## Case: Google na implementação do Scrum
 
 1 - Contexto que se fez necessário a aplicação do Scrum na empresa.
 
